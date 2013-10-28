@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/tbruyelle/projects/Samples/android/src/main/res" >
+            <file
+                name="date_count"
+                path="/Users/tbruyelle/projects/Samples/android/src/main/res/layout/date_count.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/Users/tbruyelle/projects/Samples/android/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/tbruyelle/projects/Samples/android/src/debug/res" />
+    </dataSet>
+
+</merger>
